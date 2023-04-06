@@ -1,0 +1,35 @@
+
+
+.building-1 {
+    background-color: aqua;
+    height: 600px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.building-2 {
+    background-color: cadetblue;
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    padding: 100px;
+}
+
+.building-3 {
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    padding-left: 100px;
+}
+
+.windows-1 {
+    background-color: aliceblue;
+    height: 100px;
+    width: 150px;
+    margin: 10px;
+}
